@@ -1,10 +1,10 @@
 {
     "NAME"     : "Contract Pack: Bases and Stations",
-    "URL"      : "https://github.com/severedsolo/KerbinSpaceStation/blob/master/BasesandStations.version",
-    "DOWNLOAD" : "https://github.com/severedsolo/KerbinSpaceStation/releases",
+    "URL"      : "https://github.com/LemonSkin/KerbinSpaceStation/blob/master/BasesandStations.version",
+    "DOWNLOAD" : "https://github.com/LemonSkin/KerbinSpaceStation/releases",
     "GITHUB" :
     {
-        "USERNAME" : "severedsolo",
+        "USERNAME" : "LemonSkin",
         "REPOSITORY" : "KerbinSpaceStation"
     },
     "VERSION" :
