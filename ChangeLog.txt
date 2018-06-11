@@ -1,0 +1,4 @@
+3.7.0.2
+	Adopted by LGG
+	Fix problem with station contracts in systems which don't have Gilly
+	Fixed problem with Kopernicus when sun's name is changed
