@@ -1,3 +1,5 @@
+3.7.0.4
+	Moved folder into ContractPacks 
 3.7.0.2
 	Adopted by LGG
 	Fix problem with station contracts in systems which don't have Gilly
