@@ -1,3 +1,5 @@
+3.7.1
+	Added Snacks compatability, thanks to forum user @Pleb
 3.7.0.4
 	Moved folder into ContractPacks 
 3.7.0.2
