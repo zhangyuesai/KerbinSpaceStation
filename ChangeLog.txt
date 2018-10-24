@@ -6,3 +6,7 @@
 	Adopted by LGG
 	Fix problem with station contracts in systems which don't have Gilly
 	Fixed problem with Kopernicus when sun's name is changed
+
+3.7.0.3
+	Version bump for 1.5 rebuild
+	Updated .version file with correct information
