@@ -1,3 +1,6 @@
+3.7.1.3
+	Fixed agent in the ContractGroup to match the Duna One agent
+
 3.7.1
 	Added Snacks compatability, thanks to forum user @Pleb
 3.7.0.4
