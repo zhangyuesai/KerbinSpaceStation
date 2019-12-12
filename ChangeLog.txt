@@ -1,3 +1,8 @@
+ChangeLog
+
+3.7.2
+	Updated for KSP 1.8
+	
 3.7.1.5 
     Thanks to @Tonka Crash for this:
         Update BaseSelf-Sufficiency.cfg
