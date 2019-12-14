@@ -1,5 +1,8 @@
 ChangeLog
 
+3.7.2.1
+	Fixed install loc in .version file
+
 3.7.2
 	Updated for KSP 1.8
 	
