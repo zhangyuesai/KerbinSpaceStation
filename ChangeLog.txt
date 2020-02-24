@@ -1,5 +1,8 @@
 ChangeLog
 
+3.7.2.2
+	Changed name of KopernicusSolarPanel to KopernicusSolarPanels
+
 3.7.2.1
 	Fixed install loc in .version file
 
