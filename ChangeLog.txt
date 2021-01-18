@@ -1,5 +1,9 @@
 ChangeLog
 
+3.7.2.3
+	Removed requirements for KopernicusSolarPanel in the StationCore.cfg since
+	it now modifies stock solar panels
+
 3.7.2.2
 	Changed name of KopernicusSolarPanel to KopernicusSolarPanels
 
