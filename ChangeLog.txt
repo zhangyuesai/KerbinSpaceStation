@@ -1,5 +1,8 @@
 ChangeLog
 
+3.7.2.4
+	Updated BaseScan contract with new part from SCANSat
+
 3.7.2.3
 	Removed requirements for KopernicusSolarPanel in the StationCore.cfg since
 	it now modifies stock solar panels
