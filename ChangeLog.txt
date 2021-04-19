@@ -1,5 +1,11 @@
 ChangeLog
 
+3.7.2.5
+	Changed module name of KopernicusSolarPanels to KopernicusSolarPanel,
+	needed for latest version of Kopernicus.  Note:  For those few users using
+	the older Sigma version of Kopernicus on 1.8.1, this will fail.  I've set
+	the .version to make this 1.9.1 and later to avoid most of those issues
+
 3.7.2.4
 	Updated BaseScan contract with new part from SCANSat
 
