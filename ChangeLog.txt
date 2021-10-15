@@ -1,5 +1,17 @@
 ChangeLog
 
+3.7.2.6 
+	Added following Cupolas from various mods:
+
+			part = sspx-dome-cupola-5-1
+			part = sspx-cupola-greenhouse-125-1
+			part = sspx-observation-25-1
+			part = sspx-cupola-125-1
+			part = sspx-cupola-375-1
+			part = sspx-cupola-1875-1
+			part = KKAOSS_Cupola_g
+			part = ht2_moduleCupola
+
 3.7.2.5
 	Changed module name of KopernicusSolarPanels to KopernicusSolarPanel,
 	needed for latest version of Kopernicus.  Note:  For those few users using
