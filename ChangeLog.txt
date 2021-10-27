@@ -1,5 +1,9 @@
 ChangeLog
 
+3.7.2.7
+	Broke parts from different mods into different PARAMETERS, controlled
+	with ModuleManager, to avoid CC errors
+
 3.7.2.6 
 	Added following Cupolas from various mods:
 

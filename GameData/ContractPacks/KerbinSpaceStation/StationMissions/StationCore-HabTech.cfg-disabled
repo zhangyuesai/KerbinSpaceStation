@@ -1,4 +1,4 @@
-@CONTRACT_TYPE[StationCore]:NEEDS[Kopernicus]
+@CONTRACT_TYPE[StationCoreHabTech2]:NEEDS[Kopernicus,HabTech2]
 {
 	@PARAMETER[NewStation]
 	{
@@ -8,11 +8,11 @@
 		}
 	}
 }
-CONTRACT_TYPE
+CONTRACT_TYPE:NEEDS[HabTech2]
 {
-    name = StationCore
+    name = StationCoreHabTech2
     group = BasesandStations
-    title = Launch the @/targetBody1 Space Station!
+    title = Launch the @/targetBody1 Space Station! (HabTech2)
 	genericTitle = Launch a New Space Station
     description = In order to aid our efforts of exploring @/targetBody1 we'd like you to launch a space station.
 	genericDescription = We'd like you to deploy a new space station.
@@ -170,20 +170,12 @@ CONTRACT_TYPE
         {
             name = PartValidation
             type = PartValidation
-            title = Include a cupola (optional)
+            title = Include a cupola (not optional)
 			optional = true
 			hideChildren = true
             
 // Can add multiple "part" lines here will match on ANY of them
-            part = cupola
-			part = sspx-dome-cupola-5-1
-			part = sspx-cupola-greenhouse-125-1
-			part = sspx-observation-25-1
-			part = sspx-cupola-125-1
-			part = sspx-cupola-375-1
-			part = sspx-cupola-1875-1
-			part = KKAOSS_Cupola_g
-			part = ht2_moduleCupola
+            part = ht2_moduleCupola
 
             minCount = 1
             
