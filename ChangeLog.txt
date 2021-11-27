@@ -1,5 +1,9 @@
 ChangeLog
 
+3.7.3
+	Thanks to github user @TakashiSenpai for this:
+		for SSPX, adds the parameters to have a core of a certain size and a habitat in the same size ballpark
+
 3.7.2.7
 	Broke parts from different mods into different PARAMETERS, controlled
 	with ModuleManager, to avoid CC errors
