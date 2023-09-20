@@ -1,5 +1,10 @@
 ChangeLog
 
+3.7.3.1
+	Fixed formatting in file StationMissions/StationCoreCombined.cfg
+	Uncommented stanza in StationMissions/StationCoreCombined.cfg to allow
+	the KopernicusSolarPanels to be used in the contract
+
 3.7.3
 	Thanks to github user @TakashiSenpai for this:
 		for SSPX, adds the parameters to have a core of a certain size and a habitat in the same size ballpark
